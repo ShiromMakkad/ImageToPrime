@@ -3,7 +3,7 @@ Turns an Image into a Prime Number
 
 ## Inspiration
 
-I saw a numberphile video on the Trinity Hall Prime which I've linked to below. 
+I was inspired by a numberphile video on the Trinity Hall Prime which I've linked to below. 
 
 ### The Trinity Hall Prime - Numberphile
 [![The Trinity Hall Prime - Numberphile](https://img.youtube.com/vi/fQQ8IiTWHhg/0.jpg)](https://www.youtube.com/watch?v=fQQ8IiTWHhg)
