@@ -40,7 +40,7 @@ public class imageToPrimeRunner {
 			public void run() {
 				JFileChooser fileChooser = new JFileChooser();
 				
-				JFrame frame = new JFrame("Prime to ASCII");
+				JFrame frame = new JFrame("Image to Prime");
 				frame.setSize(500,500);
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setVisible(true);
